@@ -19,6 +19,8 @@ Authors:
 The study of outcrops in Geosciences is being significantly improved by the enhancement of technologies that aims to build Digital Outcrop Models (DOMs). Usually, the virtual environment is built by a collection of partially overlapped photographs taken from diverse perspectives, frequently using unmanned aerial vehicles (UAV). However, in situations including very steep features or even sub-vertical patterns, it is expected an incomplete covering of objects. This work proposes an integration framework between terrestrial Spherical Panoramic Images (SPI), acquired by omnidirectional fusion camera, and UAV survey to overcome gaps left by traditional mapping in complex natural structures like outcrops. The omnidirectional fusion camera produces wider field of view images from different perspectives able to considerably improve the representation of the DOM, mainly where UAV has geometric view restrictions. We designed controlled experiments to guaranty the equivalent performance of SPI compared with UAV. The adaptive integration is made through an optimized selective strategy based on an octree framework. The quality of the 3D model generated using this approach was assessed by quantitative and qualitative indicators. The results show the potential of generating a more reliable 3D model using SPI allied with UAV image data while reducing field survey time and complexity.
 
 
+<img src="https://github.com/ademirmarquesjunior/octree_cloud_merge/blob/main/octree_structure.png" width="500" alt="Segmented image">
+
 
 ## Requirements
 
