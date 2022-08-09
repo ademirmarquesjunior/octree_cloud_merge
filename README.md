@@ -6,10 +6,10 @@ This is the code companion for the following paper:
 
 
 Authors:
-  [Alysson Soares Aires<sup>1</sup>](https://www.researchgate.net/profile/Graciela-Racolte),
+  [Alysson Soares Aires<sup>1</sup>](https://www.researchgate.net/profile/Alysson-Soares-Aires),
   [Ademir Marques Junior<sup>1</sup>](https://www.researchgate.net/profile/Ademir_Junior),
   [Daniel Zanotta<sup>1</sup>](https://www.researchgate.net/profile/Daniel_Zanotta),
-  [André Luis Spigolon<sup>2</sup>](),
+  [André Luis Spigolon<sup>2</sup>](https://www.researchgate.net/profile/Ald-Spigolon),
   [Maurício Roberto Veronez<sup>1</sup>](https://www.researchgate.net/profile/Mauricio_Veronez),
   [Luiz Gonzaga Junior<sup>1</sup>](https://www.researchgate.net/profile/Luiz_Gonzaga_da_Silveira_Jr)
  
