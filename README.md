@@ -44,7 +44,7 @@ Download this repository and run the "pqa.py" file in a Python 3 environment.
 
 
 ## Credits	
-This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) and the following developers:	[Ademir Marques Junior](https://www.researchgate.net/profile/Ademir_Junior).
+This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://vizlab.unisinos.br/) and the following developers:	[Ademir Marques Junior](https://www.researchgate.net/profile/Ademir_Junior), [Alysson Soares Aires](https://www.researchgate.net/profile/Alysson-Soares-Aires) e [Daniel Zanotta](https://www.researchgate.net/profile/Daniel_Zanotta).
 
 ## License
 
