@@ -2,7 +2,9 @@
 
 This is the code companion for the following paper:
 
-**[Paper] Digital Outcrop Model generation from hybrid UAV and panoramic imaging systems**
+**[Paper] [Digital Outcrop Model Generation from Hybrid UAV and Panoramic Imaging Systems](http://dx.doi.org/10.3390/rs14163994)**
+
+http://dx.doi.org/10.3390/rs14163994
 
 
 Authors:
@@ -55,5 +57,6 @@ This work is credited to the [Vizlab | X-Reality and GeoInformatics Lab](http://
 If you find our work useful in your research please consider citing our papers:
 
 ```bash
-To be published.
+Aires, Alysson Soares, Ademir Marques Junior, Daniel Capella Zanotta, André Luiz Durante Spigolon, Mauricio Roberto Veronez, and Luiz Gonzaga Jr. 2022.
+"Digital Outcrop Model Generation from Hybrid UAV and Panoramic Imaging Systems" Remote Sensing 14, no. 16: 3994. https://doi.org/10.3390/rs14163994
 ```
